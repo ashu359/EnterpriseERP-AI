@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise ERP",
+  "description": "Enterprise ERP system with Inventory, Finance, Human Resources, real-time analytics, AI Bot, and workflow approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
